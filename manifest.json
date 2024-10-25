@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "HotClaude",
+    "version": "1.0",
+    "description": "Keyboard hotkeys/shortcuts for Anthropic's Claude",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["https://claude.ai/chat/*"],
+        "js": ["content.js"]
+      }
+    ]
+}

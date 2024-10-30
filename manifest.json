@@ -9,13 +9,12 @@
         "48": "icons/icon48.png",
         "128": "icons/icon128.png"
     },
-    "permissions": ["activeTab"],
     "action": {
         "default_popup": "popup.html"
     },
     "content_scripts": [
       {
-        "matches": ["https://claude.ai/chat/*"],
+        "matches": ["https://claude.ai/chat/*, https://claude.ai/new"],
         "js": ["content.js"]
       }
     ]

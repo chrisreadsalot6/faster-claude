@@ -1,9 +1,9 @@
 TODO next time
-Create new unlisted chrome web store publish
+Check unlisted chrome web store publish
 Share with Sam
 
 IDEAS / MAYBE SOMEDAY
 Maybe -- Add a background script so that the hotkeys keep working even when the page is not focused
 Publish to twitter ? Or GitHub ? Or Something ?
 Easy place for all shortcuts and all query selectors for quick updates
-Improve resolution of icon images
+Add a bang operator equivalent

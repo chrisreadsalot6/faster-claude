@@ -7,3 +7,4 @@ Maybe -- Add a background script so that the hotkeys keep working even when the 
 Publish to twitter ? Or GitHub ? Or Something ?
 Easy place for all shortcuts and all query selectors for quick updates
 Add a bang operator equivalent
+Allow customizable shortcuts

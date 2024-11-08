@@ -1,2 +1,3 @@
 # Hi!
-Please check back for an update Wednesday (2024 November 05) for, hopefully, unlisted chrome web store extension access.
+
+Next update: 2024 November 10. Pending store review. Please check back then for, hopefully, unlisted access.
